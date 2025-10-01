@@ -2,6 +2,10 @@
 
 A world-class, multi-modal medical intelligence platform powered by 14 specialized AI agents, designed for clinical excellence, precision medicine, and ethical accountability.
 
+## 🌟 About
+
+The **Medical AI Agents Pipeline** is a pioneering platform that redefines clinical decision support through collaborative artificial intelligence. By orchestrating 14 specialized agents—ranging from Medical Vision and Knowledge RAG to Pharmacogenomics and Ethics—the system transforms fragmented patient data into a unified, high-precision diagnostic and prognostic engine. Built with a focus on **explainability, safety, and interoperability**, it empowers clinicians with deep insights while maintaining the highest standards of ethical accountability and patient-centric care.
+
 ## 🚀 Overview
 
 The Medical AI Agents Pipeline is a sophisticated diagnostic and prognostic platform that orchestrates 14 specialized AI agents to process complex patient data. By integrating medical imaging (DICOM), laboratory results, patient history, and genomic data, the system provides clinicians with high-confidence diagnostic predictions, longitudinal health trajectories, and personalized treatment recommendations.
